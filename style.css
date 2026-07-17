@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.cotainer{
+    max-width:90% ;
+    margin:auto;
+
+}
+
+header{
+    background-color:#FFFFFF;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    padding-left: 145px;
+    padding-right: 147px;
+}
+
+
+nav ul{
+    display: flex;
+    gap: 34px;
+   
+}
+
+
+nav ul a{
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+     padding top:45px ;
+}
+
+.a{
+    width: 196px;
+    height: 71px;
+}
+
+.d{
+    color: red;
+}
